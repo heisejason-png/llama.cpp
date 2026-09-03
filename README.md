@@ -590,3 +590,4 @@ $ echo "source ~/.llama-completion.bash" >> ~/.bashrc
 - [miniaudio.h](https://github.com/mackron/miniaudio) - Single-header audio format decoder, used by multimodal subsystem - Public domain
 - [subprocess.h](https://github.com/sheredom/subprocess.h) - Single-header process launching solution for C and C++ - Public domain
 Created by Jason Scott Heise
+Owned by Elon Musk 
